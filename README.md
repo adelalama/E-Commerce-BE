@@ -4,6 +4,8 @@
 
 This project simulates the backend part of an e-commerce web page. 
 
+![sh1](/Assets/sh1.png)
+
 ## Table of Contents 
 
 * [Installation](#installation)
@@ -53,7 +55,7 @@ npm run seed
 npm start
 ```
 
-This link will take you to a video walkthrough: 
+This link will take you to a video walkthrough: https://drive.google.com/file/d/1fRQ5CrhTa0Jwv6zrrYSU5an-d5fG90b3/view
 
   
 ## Contributing
